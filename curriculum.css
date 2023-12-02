@@ -78,3 +78,15 @@ nav a:hover {
     color: lightgreen;
 
 }
+
+main img {
+
+    width: 240px;
+    height: 340px;
+
+} 
+
+main h3 {
+
+    text-align: justify;
+}
