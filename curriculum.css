@@ -99,6 +99,12 @@ main p{
 footer h3 {
 
     padding: 0px 50px;
-    margin-top:  500px;
+    margin-top:  400px;
 
+}
+
+main img {
+
+    border-radius: 30%;
+    border: 5px solid lightgreen;
 }
